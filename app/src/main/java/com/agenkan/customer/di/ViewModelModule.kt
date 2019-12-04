@@ -1,6 +1,6 @@
 package com.agenkan.customer.di
 
-import com.agenkan.customer.presentation.splash.MainViewModel
+import com.agenkan.customer.presentation.main.MainViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 

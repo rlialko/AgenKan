@@ -1,4 +1,4 @@
-package com.agenkan.customer.presentation.splash
+package com.agenkan.customer.presentation.main
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
