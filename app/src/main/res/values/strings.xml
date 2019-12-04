@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agen Kan</string>
+    <string name="text_active">Active  = %b</string>
+</resources>
