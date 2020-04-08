@@ -1,34 +1,71 @@
 {
   "project_info": {
-    "project_number": "637568560695",
-    "firebase_url": "https://agen-kan.firebaseio.com",
-    "project_id": "agen-kan",
-    "storage_bucket": "agen-kan.appspot.com"
+    "project_number": "851680143823",
+    "firebase_url": "https://agenkandevelop.firebaseio.com",
+    "project_id": "agenkandevelop",
+    "storage_bucket": "agenkandevelop.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:637568560695:android:133a87d67b34ed16d619b2",
+        "mobilesdk_app_id": "1:851680143823:android:2c48e658b91aebc74c4aba",
         "android_client_info": {
-          "package_name": "com.agenkan.customer"
+          "package_name": "com.agenkan.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "637568560695-j2c5151qf3rhn706jsn5i85drrt3bqn3.apps.googleusercontent.com",
+          "client_id": "851680143823-4qci2seied5g6b3r6iqkd8p763j8nurj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCCY5P_UEIBCS626dmzqJCsIrk4y71cX-k"
+          "current_key": "AIzaSyCb1UQfoQqDnWh9Zk_9YHrL7YIgIZhs5co"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "637568560695-j2c5151qf3rhn706jsn5i85drrt3bqn3.apps.googleusercontent.com",
+              "client_id": "851680143823-4qci2seied5g6b3r6iqkd8p763j8nurj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851680143823:android:d1b7382249dca2db4c4aba",
+        "android_client_info": {
+          "package_name": "com.agenkan.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851680143823-9rum4apcfqhc4pso4liq7f7hemt9aei6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agenkan.customer",
+            "certificate_hash": "e30798a7a1dcd275a48b4056965fe763680b2d45"
+          }
+        },
+        {
+          "client_id": "851680143823-4qci2seied5g6b3r6iqkd8p763j8nurj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1UQfoQqDnWh9Zk_9YHrL7YIgIZhs5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851680143823-4qci2seied5g6b3r6iqkd8p763j8nurj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -1,4 +1,39 @@
 <resources>
-    <string name="app_name">Agen Kan</string>
-    <string name="text_blocked">Blocked  = %b</string>
+    <string name="app_name">KUNCI</string>
+
+    // Registration
+    <string name="registration_title">KUNCI</string>
+    <string name="registration_subtitle">Aplikasi pengamanan HP\nJaminan Anda</string>
+    <string name="registration_button_start">MULAI</string>
+    <string name="registration_failed_error">No internet connection. Please try again</string>
+    <string name="registration_permission_not_granted_error">Not all permission are granted. Check Settings and try again</string>
+
+    // Profile
+    <string name="profile_title">HP Anda Siap Dijaminkan</string>
+    <string name="profile_subtitle">HP Anda sudah aman dan siap dijaminkan</string>
+    <string name="profile_text">Berikan QR atau\nkode berikut ini ke\nAgen anda untuk\nmelanjutkan proses</string>
+    <string name="profile_imei">IMEI</string>
+    <string name="profile_location">Location</string>
+    <string name="profile_agen_id">Agen ID</string>
+    <string name="profile_code_id">Kode ID</string>
+    <string name="profile_button_request_deactivation">Request untuk inaktivasi</string>
+
+    // Profile - Connected
+    <string name="profile_connected_title">Sinkronisasi Berhasil</string>
+    <string name="profile_connected_subtitle">HP Sukses Tersinkronisasi dan Berhasil\nDijaminkan</string>
+
+    // Protect
+    <string name="protect_chanel_name">Kunci</string>
+    <string name="protect_title">KUNCI</string>
+    <string name="protect_subtitle">HP sedang menjadi jaminan\ndan tidak dapat digunakan\nsampai pinjaman selesai</string>
+    <string name="protect_pw_input_hint">Password untuk membuka kunci</string>
+    <string name="protect_button_unlock">BUKA</string>
+
+    // Device Admin
+    <string name="sample_device_admin">KUNCHI</string>
+    <string name="sample_device_admin_description">As a device administration application can help you make your phone more secure</string>
+
+    // Notification
+    <string name="default_notification_channel_id">default</string>
+
 </resources>
